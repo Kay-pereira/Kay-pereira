@@ -8,7 +8,7 @@ Committed to continuous learning, Improvement and collaboration in the tech comm
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
- **About Me**
+   **About Me**
 
 🎓 Currently pursuing **BSc in Software Engineering at Ghana Communication Technology University**
 
@@ -22,12 +22,12 @@ Committed to continuous learning, Improvement and collaboration in the tech comm
 
 📫 Reach me at: edmundpereira18@gmail.com
 
-**Fun Fact**
+   **Fun Fact**
 I believe in writing clean, maintainable code and collaborating to create something bigger than myself.
 
 
 
-**My Tech Stack and Tools**
+  **My Tech Stack and Tools**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
