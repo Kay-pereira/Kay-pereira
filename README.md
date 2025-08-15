@@ -13,9 +13,9 @@ Added Recently 👉 [![wakatime](https://wakatime.com/badge/user/febd8423-0167-4
 
 🎓 Currently pursuing **BSc in Software Engineering at Ghana Communication Technology University**
 
-💻 Actively working on **React JavaScript projects**
+💻 Actively working on **React JavaScript and Python Django projects**
 
-🔭 Studied and practiced **Software Engineering** with a focus on web technologies
+🔭 Studying and practicing **Software Engineering** with a focus on web technologies and Ai solutions
 
 🤔 Always open to opportunities to enhance my coding skills and learn new tech 
 
