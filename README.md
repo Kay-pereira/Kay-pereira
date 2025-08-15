@@ -37,6 +37,7 @@ I believe in writing clean, maintainable code and collaborating to create someth
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![ngrok](https://img.shields.io/badge/ngrok-online-brightgreen?logo=ngrok)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Git Bash](https://img.shields.io/badge/GitBash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
