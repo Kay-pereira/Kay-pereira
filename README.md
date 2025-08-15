@@ -6,7 +6,7 @@ Passionate about Software Engineering and dedicated to building user and busines
 Committed to continuous learning, Improvement and collaboration in the tech community.
 
 <!--START_SECTION:waka-->
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=@Edmund)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=@Edmund&layout=compact&theme=tokyonight)
 <!--END_SECTION:waka-->
 
    **About Me**
