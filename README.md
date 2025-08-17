@@ -5,6 +5,9 @@
 Passionate about Software Engineering and dedicated to building user and business centered digital solutions that align with real business needs.
 Committed to continuous learning, Improvement and collaboration in the tech community.
 
+   🚀 **Developer Activity This Week**
+   *Here's how I spent my time coding over the past 7 days:*
+
 <!--START_SECTION:waka-->
 
 ```txt
