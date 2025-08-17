@@ -6,7 +6,15 @@ Passionate about Software Engineering and dedicated to building user and busines
 Committed to continuous learning, Improvement and collaboration in the tech community.
 
 <!--START_SECTION:waka-->
-[![wakatime](https://wakatime.com/badge/user/febd8423-0167-4d5a-9daa-2d2e66d9cbd6.svg)](https://wakatime.com/@febd8423-0167-4d5a-9daa-2d2e66d9cbd6)
+
+```txt
+Python       6 hrs 30 mins   ███████████████░░░░░░░░░░   60.35 %
+JavaScript   2 hrs 50 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.33 %
+Bash         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+Git Config   28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+Other        17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+```
+
 <!--END_SECTION:waka-->
 
    **About Me**
