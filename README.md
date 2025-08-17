@@ -14,6 +14,7 @@ Bash         28 mins         █░░░░░░░░░░░░░░░░
 Git Config   28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
 Other        17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
 ```
+[![wakatime](https://wakatime.com/badge/user/febd8423-0167-4d5a-9daa-2d2e66d9cbd6.svg)](https://wakatime.com/@febd8423-0167-4d5a-9daa-2d2e66d9cbd6)
 
 <!--END_SECTION:waka-->
 
