@@ -8,6 +8,8 @@ Committed to continuous learning, Improvement and collaboration in the tech comm
    🚀 **Developer Activity This Week**
    *Here's how I spent my time coding over the past 7 days:*
 
+   [![wakatime](https://wakatime.com/badge/user/febd8423-0167-4d5a-9daa-2d2e66d9cbd6.svg)](https://wakatime.com/@febd8423-0167-4d5a-9daa-2d2e66d9cbd6)
+
 <!--START_SECTION:waka-->
 
 ```txt
