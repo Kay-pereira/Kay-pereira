@@ -13,11 +13,11 @@ Committed to continuous learning, Improvement and collaboration in the tech comm
 <!--START_SECTION:waka-->
 
 ```txt
-Python       12 hrs 21 mins  ███████████░░░░░░░░░░░░░░   44.19 %
-JavaScript   9 hrs 16 mins   ████████▒░░░░░░░░░░░░░░░░   33.19 %
-Bash         1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
-CSS          1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
-Other        1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+Python       10 hrs 40 mins  ██████████░░░░░░░░░░░░░░░   40.44 %
+JavaScript   9 hrs 42 mins   █████████▒░░░░░░░░░░░░░░░   36.81 %
+Bash         1 hr 48 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+CSS          1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+Git Config   51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
 ```
 
 <!--END_SECTION:waka-->
