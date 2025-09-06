@@ -13,8 +13,7 @@ Committed to continuous learning, Improvement and collaboration in the tech comm
 <!--START_SECTION:waka-->
 
 ```txt
-Python   38 mins         ██████████████████▒░░░░░░   73.40 %
-Bash     14 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
