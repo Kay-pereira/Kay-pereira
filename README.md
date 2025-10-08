@@ -5,22 +5,7 @@
 Passionate about Software Engineering and dedicated to building user and business centered digital solutions that align with real business needs.
 Committed to continuous learning, Improvement and collaboration in the tech community.
 
-   🚀 **Developer Activity This Week**
-   *Here's how I spent my time coding over the past 7 days:*
-
   
-
-<!--START_SECTION:waka-->
-
-```txt
-JavaScript   12 hrs 58 mins  ██████████████████▓░░░░░░   75.32 %
-Python       1 hr 57 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
-CSS          1 hr 43 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
-JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-Bash         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-```
-
-<!--END_SECTION:waka-->
 
    **About Me**
 
