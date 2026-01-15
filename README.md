@@ -5,6 +5,8 @@
 Passionate about Software Engineering and dedicated to building user and business centered digital solutions that align with real business needs.
 Committed to continuous learning, Improvement and collaboration in the tech community.
 
+**IYKYK**
+[![wakatime](https://wakatime.com/badge/user/febd8423-0167-4d5a-9daa-2d2e66d9cbd6.svg)](https://wakatime.com/@febd8423-0167-4d5a-9daa-2d2e66d9cbd6)
   
 
    **About Me**
